@@ -1,1 +1,3 @@
 This is Bob's text file in the anotherStory repository on GitHub. 
+
+A second sentence in Bob's text file.
